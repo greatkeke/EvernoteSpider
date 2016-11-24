@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{57C43F02-0FD6-4931-89BE-BA0A2FE2F07A}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="EvernoteSpider/Program.cs">
+    <Files>
+      <File FileName="EvernoteSpider/Program.cs" Line="17" Column="24" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.EvernoteSpider PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

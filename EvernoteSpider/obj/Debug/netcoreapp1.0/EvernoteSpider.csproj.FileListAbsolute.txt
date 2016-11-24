@@ -1,0 +1,6 @@
+/Users/Feng/Documents/Projects/EvernoteSpider/EvernoteSpider/bin/Debug/netcoreapp1.0/EvernoteSpider.dll
+/Users/Feng/Documents/Projects/EvernoteSpider/EvernoteSpider/bin/Debug/netcoreapp1.0/EvernoteSpider.pdb
+/Users/Feng/Documents/Projects/EvernoteSpider/EvernoteSpider/obj/Debug/netcoreapp1.0/EvernoteSpider.csprojResolveAssemblyReference.cache
+/Users/Feng/Documents/Projects/EvernoteSpider/EvernoteSpider/obj/Debug/netcoreapp1.0/EvernoteSpider.AssemblyInfo.cs
+/Users/Feng/Documents/Projects/EvernoteSpider/EvernoteSpider/obj/Debug/netcoreapp1.0/EvernoteSpider.dll
+/Users/Feng/Documents/Projects/EvernoteSpider/EvernoteSpider/obj/Debug/netcoreapp1.0/EvernoteSpider.pdb
