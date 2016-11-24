@@ -1,0 +1,9 @@
+logs/
+*.suo
+/*.user
+bin/
+/project.lock.json
+obj/
+artifacts/
+.vs/
+*.userprefs
